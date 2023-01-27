@@ -14,7 +14,7 @@ const Container = styled.div`
 const Form = styled.div`
   width: 40vw;
   height: 70vh;
-  background-color: #b29b9b;
+  background-color: #539690;
   display: flex;
   flex-direction: column;
   align-items: center;
